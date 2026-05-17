@@ -1,6 +1,6 @@
 # Skyrim Text Adventure
 
-![Skyrim ASCII Art](skyrim%20ascii%20art.png)
+![ASCII Art](ascii-art)
 
 A small terminal-based text adventure inspired by Skyrim, built in C++ as part of Codecademy’s “Build a Text Adventure” project.
 
